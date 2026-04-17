@@ -1,5 +1,5 @@
 const request = require("supertest")
-const app = require("./Main")
+const app = require("./index")
 
 
 describe("GET /Local",() => {
