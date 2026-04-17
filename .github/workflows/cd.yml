@@ -25,7 +25,7 @@ jobs:
           key: ${{ secrets.KEY }}
           port: 22
           script: |
-            cd /home/ubuntu/stikes
+            cd /home/ubuntu/stikes/Yansd
             git pull origin main
             git status
             npm install --omit=dev
