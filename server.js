@@ -1,4 +1,4 @@
-const app = require("./Main")
+const app = require("./index")
 
 const port = 3001
 
