@@ -7,7 +7,7 @@ app.use(express.json())
 
 app.get("/Local",(req,res) => {
     res.status(200).json({
-        message : "Hello Welcome to the hellllllllł"
+        message : "Hello Welcome to the kalibler"
     })
 })
 
