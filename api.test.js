@@ -8,7 +8,7 @@ describe("GET /Local",() => {
 
         expect(res.statusCode).toBe(200)
         expect(res.body).toEqual({
-            message: "Hello Welcome to the hellllllllł"
+            message: "Hello Welcome to the kalibler"
         })
     })
 })
